@@ -1,6 +1,6 @@
 👋🏼 Hi, I’m Renada
 
-- 🌏 I’m interested in Ui/Ux design & iOS developing
+- 🌟 I’m interested in Ui/Ux design & iOS developing
 - 🚀 I’m currently working on a fantastic app called "Hawalik"
 - 🤓 I’m deeply diving into SwiftUI
 - 📫 Feel free to reach me at renad_basulayman@hotmail.com
