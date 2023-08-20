@@ -1,4 +1,4 @@
-👋🏼 Hi, I’m Renada
+👋🏼 Hi, I’m Renad
 
 - 🌟 I’m interested in Ui/Ux design & iOS developing
 - 🚀 I’m currently working on a fantastic app called "Hawalik"
